@@ -9,3 +9,5 @@
 - Auto layout
 - UIImage
 - UINavigationController: sử dụng code để điều hướng đến ViewController khác
+- UIActivityViewController: dùng để share ảnh, url, pdf... các ứng dụng khác
+- UIBarButtonItem
