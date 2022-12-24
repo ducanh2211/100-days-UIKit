@@ -8,3 +8,4 @@
 - Outlets
 - Auto layout
 - UIImage
+- UINavigationController: sử dụng code để điều hướng đến ViewController khác
